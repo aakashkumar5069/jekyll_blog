@@ -9,23 +9,20 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Start Bootstrap</a>
+                <a class="navbar-brand" href="index.html">Hovering Into The Thoughts</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="index.html" class="{% if page.url == '/index.html' %}selected{% endif %}">Home</a>
+                        <a href="{{ site.url }}/index.html" class="{% if page.url == '/index.html' %}selected{% endif %}">Home</a>
                     </li>
                     <li>
-                        <a href="about.html" class="{% if page.url == '/about.html' %}selected{% endif %}">About</a>
+                        <a href="{{ site.url }}/about.html" class="{% if page.url == '/about.html' %}selected{% endif %}">About</a>
                     </li>
                     <li>
-                        <a href="post.html">Sample Post</a>
-                    </li>
-                    <li>
-                        <a href="contact.html" class="{% if page.url == '/contact.html' %}selected{% endif %}">Contact</a>
+                        <a href="{{ site.url }}/contact.html" class="{% if page.url == '/contact.html' %}selected{% endif %}">Contact</a>
                     </li>
                 </ul>
             </div>

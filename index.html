@@ -2,6 +2,7 @@
 layout: default
 title: "Homepage"
 group: "navigation"
+coverImg: "home-bg.jpg"
 
 
 ---
@@ -10,7 +11,7 @@ group: "navigation"
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                {% for post in site.posts %}
+                {% for post in paginator.posts %}
 
                     <div class="post-preview">
                         <a href="{{ post.url }}">
@@ -21,18 +22,31 @@ group: "navigation"
                                 {{ post.description }}
                             </h3>
                         </a>
-                        <p class="post-meta">Posted by <a href="#">{{ post.author }}</a> on {{ post.date }}</p>
+                        <p class="post-meta">Posted by <a href="#">{{ post.author }}</a> on {{ post.date | date_to_string }}</p>
                     </div>
                     <hr>
 
                 {% endfor %}
                 
                 <!-- Pager -->
+                {% if paginator.total_pages > 1 %}
                 <ul class="pager">
-                    <li class="next">
-                        <a href="#">Older Posts &rarr;</a>
+                    {% if paginator.previous_page %}
+                    <li class="previous">
+                        <a href="{{ paginator.previous_page_path }}">&larr; Previous Posts</a>
                     </li>
+                    {% endif %}
+
+                    {% if paginator.next_page %}
+                    <li class="next">
+                        <a href="{{ paginator.next_page_path }}">Older Posts &rarr;</a>
+                    </li>
+                    {% endif %}
+
+                    
                 </ul>
+                {% endif %}
+
             </div>
         </div>
     </div>
