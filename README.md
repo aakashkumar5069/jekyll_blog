@@ -1,2 +1,2 @@
 #Jekyll Blog
-Attempt into rolling into Jekyll-Aakash :)
+Attempt of rolling into Jekyll-Aakash :)
