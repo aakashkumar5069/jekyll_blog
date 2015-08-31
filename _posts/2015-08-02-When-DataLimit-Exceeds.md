@@ -12,8 +12,6 @@ coverImg: "post-bg.jpg"
 
 ![Data limit Exceeded](/post_images/dle.gif?raw=true)
 
-<img src="/post_images/dle.gif" alt="hi" class="inline"/>
-
 *You are walking along the Same road but it's Neverending....You can see the Destination but never reach it....When will the week end And the Administrator will give u a new lump of Data to utilize .*
 
 *This seems as a matter of concern to a lot of Engineers all over India where Their respective colleges have a decently less as an allowance for Internet !.Recently Windows 10 came into the picture and It downloaded all the updates on its own And to my dismay , Everything was gone ! *
