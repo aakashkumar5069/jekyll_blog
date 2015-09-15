@@ -10,7 +10,7 @@ coverImg: "post-bg.jpg"
 
 ##I am Happy :)
 
-![My happy screenshot](/img/h_m.jpeg?raw=true)
+![My happy screenshot]({{ site.url }}/img/h_m.jpeg?raw=true)
 
 *Cause This seems to be to be my first step into The blogging world.I used to write personal stuff but this seems as a way to digitalise it.And sharing my views to Everyone.I have a certain feeling that anyone could easily align his field of thought towards mine.I have certain view ,Maybe Someone has a completely different one but I have reason to have that view for sure :p.*  
 
