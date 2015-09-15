@@ -10,7 +10,7 @@ coverImg: "post-bg.jpg"
 
 ##When the meter is mine,You have to do according to it ! :smirk:
 
-![Data limit Exceeded]({{ site.url }}/post_images/dle.gif?raw=true)
+![Data limit Exceeded]({{ site.url }}/assets/dle.gif?raw=true)
 
 *You are walking along the Same road but it's Neverending....You can see the Destination but never reach it....When will the week end And the Administrator will give u a new lump of Data to utilize .*
 
