@@ -1,5 +1,5 @@
 markdown: redcarpet
 
-paginate: 5
+paginate: 4
 
 baseurl: /jekyll_blog
