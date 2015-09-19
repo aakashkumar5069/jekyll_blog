@@ -3,7 +3,7 @@ layout: post
 title: "Exhiliration and Happiness"
 description: "That Which Actually Matters :)"
 author: "Kumar Aakash"
-coverImg: "post-bg.jpg"
+coverImg: "group-happiness.jpg"
 ---
 
 #Exhiliration and Happiness
