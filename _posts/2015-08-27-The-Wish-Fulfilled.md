@@ -20,16 +20,16 @@ Since it was my Second Gd as such,I was less focused on Nervousness and more on 
 
 
 THe next day,was the Personal Interviews,I was the 11th candidate,therefore It took them half an hour to send me for my Technical.As I was waiting outside,I took a look at the sorting techniques.And then I was sent in.
-I got a very friendly HR.We started with pleasantries and then he went on to ask about my hobbies,We talked on that.His next statement ws to choose the subject I was most comfortable with,
+I got a very friendly Technical HR.We started with pleasantries and then he went on to ask about my hobbies,We talked on that.His next statement ws to choose the subject I was most comfortable with,
 I started with C,A quicksort algorithm was asked,
-Then Networkink,all the Osi Layers and its functionalities.
-After explaining that,I was asked about Connectionless vs Connection-oriented wih Examples.And why Video Conferinging uses Connectionless.
+Then Networking,all the OSI Layers and its functionalities.
+After explaining that,I was asked about Connectionless vs Connection-oriented wih Examples.And why Video Conferencinging uses Connectionless??
 I was asked to explain difference between object and class with examples.
 Then the project was asked,I told him about it .And he gave me suggestions as to How we could improve that !
 It was a 30-45 minutes interaction.
 
-I was sent to sit for in the Auditorium.If I had got through this round,Then i would be called for the Hrs.I was aware that The Percentage of conversion from Hr round was good,But It was necessary that I cross the Hr rounds.As these thoughts were going through my mind,I was called in for the Hrs,I was exhilarated.
+I was sent to sit for in the Auditorium.If I had got through this round,Then i would be called for the HR.I was aware that The Percentage of conversion from HR round was good,But It was necessary that I cross the Hr rounds.As these thoughts were going through my mind,I was called in for the HR round,I was exhilarated.
 
-The HR round was a fine stroke. We disussed normally on hobbies,the company policies,my woorking conditions nad preferences.All of those and Happiness(He saw my photo and said that even assuming that you grow a beard u would look like this but There is a very different Hairstyle in front of me nad the person in the photo).It was a fine Day and at te end of It,I felt satisied as to What I answered.
+The HR round was a fine stroke. We discussed normally on hobbies,the company policies,my working conditions nad preferences.All of those and Happiness(He saw my photo and said that even assuming that you grow a beard u would look like this but There is a very different Hairstyle in front of me nad the person in the photo).It was a fine Day and at the end of It,I felt satisied as to What I answered.
 
 But I had to wait for the Final Verdict.

@@ -10,7 +10,7 @@ coverImg: "edison-quote.jpg"
 
 ##"Why Do I do that ??"
 
-Something's been buzzing me since my Childhood.Why do I do mistakes ?I am aware of the outcome of my actions,but sometimes I still cross that line !. I am time and again reminded of what i do and what could happen.It normally leads to a state I am fixed as to how I would resolve the newly created problem and then I question why didi I take the first step.Had I not taken my first step,I would not have worsened the situation.
+Something's been buzzing me since my Childhood.Why do I do mistakes ?I am aware of the outcome of my actions,but sometimes I still cross that line !. I am time and again reminded of what I do and what could happen.It normally leads to a state I am fixed as to how I would resolve the newly created problem and then I question why did I take the first step.Had I not taken my first step,I would not have worsened the situation.
 
 My action is the result of two things,firstly being,I want to solve my problem on my own(Because I am very secretive as to my issues,I take as my own challenge to conquer and vanquish sometimes not realising that neither do I have the resources nor the tools to tackle the situation.) and secondly,I do not like people getting involved with my issues.
 
