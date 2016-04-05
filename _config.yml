@@ -1,3 +1,6 @@
+
+baseurl: "/jekyll_blog"
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -9,4 +12,3 @@ gems: [jekyll-paginate, jekyll-feed]
 
 
 
-baseurl: /jekyll_blog
