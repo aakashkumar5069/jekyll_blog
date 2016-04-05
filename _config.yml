@@ -1,5 +1,12 @@
+# Build settings
 markdown: kramdown
-
+highlighter: rouge
+permalink: pretty
 paginate: 4
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
+
+
 
 baseurl: /jekyll_blog
