@@ -6,9 +6,9 @@ author: "Kumar Aakash"
 coverImg: "post-bg.jpg"
 ---
 
-#Data Limit Exceeded
+# Data Limit Exceeded
 
-##When the meter is mine,You have to do according to it ! :smirk:
+## When the meter is mine,You have to do according to it ! :smirk:
 
 ![Data limit Exceeded]({{ site.url }}/assets/dle.gif?raw=true)
 

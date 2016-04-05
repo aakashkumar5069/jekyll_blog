@@ -6,9 +6,9 @@ author: "Kumar Aakash"
 coverImg: "post-bg.jpg"
 ---
 
-#The Wish Fulfilled
+# The Wish Fulfilled
 
-##"It was Experience of a Lifetime to Finally get the Perfect Day to enjoy my Endeavours and Savour it ."
+## "It was Experience of a Lifetime to Finally get the Perfect Day to enjoy my Endeavours and Savour it ."
 
 This was sort of a dream come true.I had not even expected this sort of a Resut .
 It is rightly said that God does things in a mysterious way,And you could never sense a miniscule of it !

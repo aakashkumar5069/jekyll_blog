@@ -6,9 +6,9 @@ author: "Kumar Aakash"
 coverImg: "post-bg.jpg"
 ---
 
-#First Try Happiness
+# First Try Happiness
 
-##I am Happy :)
+## I am Happy :)
 
 ![My happy screenshot]({{ site.url }}/assets/h_m.jpeg?raw=true)
 
@@ -19,4 +19,4 @@ coverImg: "post-bg.jpg"
 [Udemy Free Course](https://www.udemy.com/create-free-jekyll-blog-on-github-pages-like-a-ninja/#/lecture/2066190)
 
 
-###An awesome insight into Jekyll & Blogging  !!
+### An awesome insight into Jekyll & Blogging  !!

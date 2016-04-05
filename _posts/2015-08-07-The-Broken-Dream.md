@@ -6,9 +6,9 @@ author: "Kumar Aakash"
 coverImg: "post-bg.jpg"
 ---
 
-#The Broken Dream
+# The Broken Dream
 
-##"If you got a dream,protect it." If you couldnot,Then you can understand me....
+## "If you got a dream,protect it." If you couldnot,Then you can understand me....
 
 ![Boulevard Of Broken Dreams]({{ site.url }}/assets/blvd.gif?raw=true)
 

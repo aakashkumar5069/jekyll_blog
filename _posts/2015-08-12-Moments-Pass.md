@@ -6,9 +6,9 @@ author: "Kumar Aakash"
 coverImg: "post-bg.jpg"
 ---
 
-#Moments Pass
+# Moments Pass
 
-##While I stand still.....
+## While I stand still.....
 
 Things have not been good of late.While I stand still with my firm foot on the ground,People do have managed to move to a better level,endeavouring towards success .
 
