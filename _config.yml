@@ -1,5 +1,12 @@
-
+# Site settings
+title: Aakash's Blog
+header-img: img/home-bg.jpg
+email: aakashkumar5069@gmail.com
+description: "Rolling into Jekyll !"
 baseurl: "/jekyll_blog"
+github_username: aakashkumar5069
+facebook_username:  Kumar Aakash
+email_username:  aakashkumar5069@gmail.com
 
 # Build settings
 markdown: kramdown
