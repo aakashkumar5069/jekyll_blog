@@ -26,7 +26,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "//formspree.io/aakashkumar5069@gmail.com",
+                url: "//formspree.io/aakashkumar5069@gmail.tld",
                 type: "POST",
                 data: {
                     name: name,
