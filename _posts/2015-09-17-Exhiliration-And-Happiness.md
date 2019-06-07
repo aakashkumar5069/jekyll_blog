@@ -10,7 +10,7 @@ coverImg: "group-happiness.jpg"
 
 ##Millions of Happy Faces.......(Dreams turn True After all :) )
 
-YesterDay was One of the Best Days of My College.This year turned to be Greater Than Last Year.
+Yesterday was One of the Best Days of My College.This year turned to be Greater Than Last Year.
 
 #3800 offers for 2100 People.
 
