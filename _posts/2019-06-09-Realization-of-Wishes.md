@@ -6,7 +6,7 @@ author: "Kumar Aakash"
 coverImg: "iift-delhi.jpg"
 ---
 
-##All seems worth the effort of 2 long years when you can see your name on the list.
+## **All seems worth the effort of 2 long years when you can see your name on the list.** ##
 
 **The Days Close to Expected Result Date:**
 Opening Pagalguy's IIFT Page had become second nature. I used to check it almost every 15 mins.One of the very few perks of working in an IT environment was having access to stable internet.I used to sneak out some time in my work hour when I would open the Pagalguy page in a new window and referesh it whenever I felt free.In between SQL queries my anxiety also used used to load as soon as I got minor updates.
