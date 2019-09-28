@@ -11,7 +11,7 @@ coverImg: "Intel_Transp.jpg"
 
 The term internet of things was first used by Kevin Ashton and refers to uniquely identifiable objects and their virtual representations in an “internet-like” structure. These objects can vary from huge buildings, planes, cars, machines, any sort of goods, industries, to human beings, animals and plants.
 
-
+![My image Name](/assets/images/IoT-2.jpg)
 
 
 **IoT is built on the idea of extending network connectivity beyond standard devices** such as your laptops and smartphones to any traditionally non-internet-enabled (or “dumb”) device. There has been a prediction by Intel that there will be 200 billion of these connected objects or about 26 per human by next year. While the number seems huge, consider that 96% of companies that have thus far invested in the IoT space have seen a positive return on their investment, which implies that this trend will only continue to grow in near future.
@@ -30,7 +30,7 @@ The data flow via car sensors can ensure better navigation and traffic congestio
 
 The **development of Electronic plate** can be used for intelligent traffic monitoring for identifying and tracking the vehicle. E-Plate can be used as a transponder in license plate equipped with a E-Plate and sensors. Here every car gets data it needs from the spot and deliver the data to assigned destination. The vehicle E-Plate stores information about the vehicle and the owner. Parameters such as vehicle plate number, speed of the vehicle, license number, vehicle type, the travelling time of the car are stored and continuously monitored. This knowledge of information from every vehicle helps in estimating the number of vehicles on the road, the density of the vehicles on the road and average speed of the vehicles.
 
-
+![My image Name](/assets/images/traffic-iot.jpg)
 
 **Safety**
 
