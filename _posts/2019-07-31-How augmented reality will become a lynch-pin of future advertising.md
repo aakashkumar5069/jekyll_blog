@@ -11,9 +11,7 @@ coverImg: "Augmented_Reality.jpg"
 
 Advertising has enhanced itself by changing from advertising a product to advertising an experience. It used to be a one-way communication on the T.V. As per survey, advertisers have now got three seconds to grab someone’s attention before they get distracted.
 
-![](https://www.blippar.com/blog/2018/04/09/reinventing-banner-ad-ar-increases-engagement-30)
-
-![My image Name](/assets/images/VR1.jpg)
+![My image Name]({{ site.baseurl }}/assets/images/VR1.jpg)
 
 Human beings are visual creatures. Studies have indicated that humans process visuals 60,000 times faster than text. This makes users engage with visual data more than any other form of data. The amount of visual data consumed in the past few years would easily surpass the amount of textual content consumed in the past century. Augmented Reality, which is both visual and textual in nature has the capability to heighten user engagement. It has a magnetic pull that will both amuse users and also hook them to the content.
 
@@ -23,9 +21,7 @@ From leveraging stunt-like experiences such as elephants walking right next to y
 
 AR can help bridge the gap between personalisation and care. Brands need to think about how they can help people, entertain them or give them information that they didn’t have previously.
 
-![](https://emerj.com/ai-sector-overviews/augmented-reality-shopping-and-artificial-intelligence/)
-
-![My image Name](/assets/images/VR2.jpg)
+![My image Name]({{ site.baseurl }}/assets/images/VR2.jpg)
 
 Advertisers look at using augmented reality as part of a marketing drive in order to attract new customers as well as retain existing customer base. It particularly means developing an in-depth knowledge about the particular segment of customers; what is their identity, what is their requirement and why they need it. That knowledge leads to understanding their consuming habits and the triggers for buying. Consumers are always open to augment their world with more offers and information. Augmented reality encapsulates large chunks of information into tiny snippets that are visually easy to see and understand. For example, you can point your smartphone camera at a restaurant and get instant updates about star ratings, customer reviews, and much more.
 
