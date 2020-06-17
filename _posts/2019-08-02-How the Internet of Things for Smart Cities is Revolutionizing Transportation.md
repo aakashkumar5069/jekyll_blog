@@ -7,7 +7,7 @@ coverImg: "Intel_Transp.jpg"
 ---
 
 
-**How the Internet of Things for Smart Cities is Revolutionizing Transportation**
+#How the Internet of Things for Smart Cities is Revolutionizing Transportation
 
 The term internet of things was first used by Kevin Ashton and refers to uniquely identifiable objects and their virtual representations in an “internet-like” structure. These objects can vary from huge buildings, planes, cars, machines, any sort of goods, industries, to human beings, animals and plants.
 

@@ -7,7 +7,7 @@ coverImg: "Augmented_Reality.jpg"
 ---
 
 
-**How augmented reality will become a lynch-pin of future advertising**
+#How augmented reality will become a lynch-pin of future advertising
 
 Advertising has enhanced itself by changing from advertising a product to advertising an experience. It used to be a one-way communication on the T.V. As per survey, advertisers have now got three seconds to grab someone’s attention before they get distracted.
 
