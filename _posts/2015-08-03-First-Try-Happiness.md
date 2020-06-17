@@ -1,7 +1,7 @@
 ---
 layout: post 
-title: First "Try Happiness"
-description: "An awesome insight into Jekyll"
+title: First "Try at Happiness"
+description: "An awesome insight into Jekyll.Jekyll is a simple blog generator. The community is growing and the number of plugins is also growing."
 author: "Kumar Aakash"
 coverImg: "post-bg.jpg"
 ---
