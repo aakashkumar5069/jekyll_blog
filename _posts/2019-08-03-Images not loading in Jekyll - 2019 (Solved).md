@@ -15,7 +15,7 @@ Whenever you face such an issue,please ue the Inspect element tool of Chrome.Add
 
 In my case : The issue was siteurl.It was taking the wrong siteurl and therefore redirecting me to a different url (Github folder) altogether.If you have defined a siteurl in config.yml,Kindly go through the Documentation and solve the problem. 
 
-![My image Name]({{ site.baseurl }}/assets/images/IoT-2.jpg)
+![Test image]({{ site.baseurl }}/assets/images/IoT-2.jpg)
 
 Additionally you can also go through some resources I used.
 
