@@ -11,7 +11,7 @@ coverImg: "Intel_Transp.jpg"
 
 The term internet of things was first used by Kevin Ashton and refers to uniquely identifiable objects and their virtual representations in an “internet-like” structure. These objects can vary from huge buildings, planes, cars, machines, any sort of goods, industries, to human beings, animals and plants.
 
-![My image Name](jekyll_blog/assets/images/IoT-2.jpg)
+![My image Name]({{ site.baseurl }}/jekyll_blog/assets/images/IoT-2.jpg)
 
 <img src="jekyll_blog/assets/images/IoT-2.jpg" alt="">
 
@@ -32,7 +32,7 @@ The data flow via car sensors can ensure better navigation and traffic congestio
 
 The **development of Electronic plate** can be used for intelligent traffic monitoring for identifying and tracking the vehicle. E-Plate can be used as a transponder in license plate equipped with a E-Plate and sensors. Here every car gets data it needs from the spot and deliver the data to assigned destination. The vehicle E-Plate stores information about the vehicle and the owner. Parameters such as vehicle plate number, speed of the vehicle, license number, vehicle type, the travelling time of the car are stored and continuously monitored. This knowledge of information from every vehicle helps in estimating the number of vehicles on the road, the density of the vehicles on the road and average speed of the vehicles.
 
-![My image Name](jekyll_blog/assets/images/traffic-iot.jpg)
+![My image Name]({{ site.baseurl }}/jekyll_blog/assets/images/traffic-iot.jpg)
 
 <img src="jekyll_blog/assets/images/traffic-iot.jpg" alt="">
 
