@@ -3,7 +3,7 @@ title: Aakash's Blog
 header-img: img/home-bg.jpg
 email: aakashkumar5069@gmail.com
 description: "Rolling into Jekyll !"
-baseurl: ""
+baseurl: "/jekyll_blog"
 github_username: aakashkumar5069
 facebook_username: profile.php?id=100007596105533
 email_username:  aakashkumar5069@gmail.com
