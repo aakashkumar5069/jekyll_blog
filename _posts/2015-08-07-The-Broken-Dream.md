@@ -10,7 +10,7 @@ coverImg: "post-bg.jpg"
 
 ## "If you got a dream,protect it." If you couldnot,Then you can understand me....
 
-![Boulevard Of Broken Dreams]({{ site.baseurl }}/assets/blvd.gif?raw=true)
+![Boulevard Of Broken Dreams]({{ site.baseurl }}/assets/images/blvd.gif)
 
 Any person on earth wants to change his future.And such a strive toards achieving that is one of the best attempts he could think of,towards defining his existance and claiming his future.
 One such occasion came towards me....Something had caught my eyes for long and its sparkle was unresisting.And so I derived a way of having it with the assistance of people who had succesfully altered their destiny.But Then two importand things come in....**LUCK** and **Destiny(Are U destined to get it or not)**.
