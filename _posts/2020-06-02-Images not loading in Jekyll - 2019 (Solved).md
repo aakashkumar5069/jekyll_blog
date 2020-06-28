@@ -6,9 +6,6 @@ author: "Kumar Aakash"
 coverImg: "post-bg.jpg"
 ---
 
-
-**Images not loading issue in Jekyll (Updated-2020)**
-
  <h1>Images not loading issue in Jekyll (Updated-2020)</h1>
 
 After going through numerous blogs and stackoverflow,I was disappointed on the technical documents concerning this issue.Everywhere it was written resolved but to no avail.Finally after attempting almost all the solutions provided on the **INTERNET**,I switched on to the Hit and Trial Method and tried to solve the issue  a logical way.
@@ -21,7 +18,7 @@ In my case : The issue was siteurl.It was taking the wrong siteurl and therefore
 
 Additionally you can also go through some resources I used.
 
-<a href="https://stackoverflow.com/questions/28820917/jekyll-on-github-pages-not-displaying-images-and-has-broken-links">
+<a href="https://stackoverflow.com/questions/28820917/jekyll-on-github-pages-not-displaying-images-and-has-broken-links">Stackoverflow</a>
 
 
 
